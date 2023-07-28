@@ -10,3 +10,9 @@ exports.empresa = {
     },
     funcionarios: this.nomes
 }
+
+exports.cursos = [
+    {descricao: 'Psicologia', ch:4800, periodo: 'MANHÂ', status: true},
+    {descricao: 'Engenharia', ch:5600, periodo: 'NOITE', status: true},
+    {descricao: 'Turismo', ch:3200, periodo: 'INTEGRAL', status: false}
+]

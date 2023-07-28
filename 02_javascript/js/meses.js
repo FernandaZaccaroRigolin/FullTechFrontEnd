@@ -17,7 +17,6 @@ let meses = [
     {mes: "Novembro",  dias: 30},
     {mes: "Dezembro",  dias: 31}
 ];
-
 // referenciando o eemento 'select' pelo id
 let elementoMes = document.getElementById('mesPreferido');
 
